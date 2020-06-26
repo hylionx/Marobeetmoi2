@@ -6,7 +6,7 @@
  * Time: 16:20
  */
 
-define("SITE", "http://localhost/marobeetmoi/");
+define("SITE", "http://localhost/marobeetmoi2/");
 
 define("CSS", SITE."css/");
 define("JS", SITE."js/");
