@@ -7,6 +7,7 @@ require TPL."header.php";
 	<div class="about agileinfo">
 		<div class="container"> 
 			<h3 class="agileits-title">A propos de nous</h3>
+			<p>teste</p>
 			<div class="col-md-6 about-w3left"> 
 				<h4>Ma robe et moi <br> by Fatima </h4>
 				<p>Ma robe et moi a était créée par moi même, Fatima. Cela fait maintenant 3 ans que j'exerce la location de robe à domicile à petit prix afin de permettre à toutes catégories de personnes de pouvoir louer la robe de ses rêves à prix abordable. Nos robes viennent tout droit du maroc, turquie et de chine. Pour la plupart, ce sont des robes faites mains et de qualité supérieure. Nous avons également des pièces uniques de chez Amira Lebsatte, basée à Bruxelles. Nous sommmes en collaboration. <br> Mon objectif: <strong>votre satisfaction.</strong> </p>
