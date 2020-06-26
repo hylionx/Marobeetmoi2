@@ -30,7 +30,6 @@
 
 
 <body> 
-<h1>wesssshhhhhhhh</h1>
 	<!-- banner -->
 	<div class="agileits-banner">
 		<div class="bnr-agileinfo">
