@@ -39,8 +39,8 @@
 				</div>
 			</div>
 			<div class="banner-w3text w3layouts">
+			<h2>Ma robe et moi</h2> 
 				<h6>Bienvenue</h6>
-				<h2>Ma robe et moi</h2> 
 			</div>
 			<!-- navigation -->
 			<div class="top-nav w3-agiletop">
