@@ -1,7 +1,7 @@
 <?php
     define('HOST','localhost');
     define('DB_NAME','marobeetmoi2');
-    define('PORT','3308');
+    define('PORT','3306');
     define('USER', 'root');
     define('PASS','');
 
